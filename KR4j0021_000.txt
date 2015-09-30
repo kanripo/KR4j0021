@@ -1,0 +1,5 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 丹陽詞
+#+DATE: 2015-08-25 00:47:30.039132
+#+PROPERTY: ID KR4j0021
+#+PROPERTY: BASEEDITION WYG    
